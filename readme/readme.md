@@ -10,7 +10,7 @@ and making it easier to read.
 
 
 ## preview image of the website
-![image](screenshot(57).png)
+![image](sitepic.png)
 
 
 
